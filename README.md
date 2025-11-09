@@ -76,115 +76,69 @@
 ---
 ## Research Impact
 | Metric | Value |
----
-## Research Philosophy
-1. **Accessible Knowledge** – Open DOIs, plain summaries  
-2. **Practical Impact** – Implementation-ready, government-aligned  
-3. **Methodological Transparency** – Docu Helix, verifiable sources  
+|--------|-------|
+| **Total Publications** | **238 DOIs** |
+| **Copyrights Registered** | **25** |
+| **Patents Filed** | **1** |
+| **Global Downloads** | **3,650+** |
+| **Government Policy Adoptions** | Multiple (ECI, Assam CMO) |
+| **Voter Impact** | **970M+** (Election Commission of India) |
+| **Original Concepts** | **150+** |
+| **Alternative Learning Success** | YouTube to Policy Influence |
 
 ---
-## About the Author
-**Kallol Chakrabarti** – Independent Researcher & Policy Innovator
+## Complete Research Catalog
+<details>
+<summary><b>Click to expand: 238 research papers (categorized)</b></summary>
 
-### Background (Updated November 2025)
-- **Personal Acknowledgement** from **Assam Chief Minister’s Office**  
-- **Medium.com Recommended Story**: *"From YouTube Learner to Policy Influencer: My Journey as Docu Helix"* – Featured in **Innovation Policies**  
-- **Applied** for **National Intellectual Property Awards 2025** (Oct 26, 2025) – *Individual Independent Researcher* category  
-- **Showcased**: **238 DOIs**, **25 Copyrights**, **1 Patent**  
-- **Recognitions** from **Election Commission of India** & **Assam CMO**  
-- **Top Independent Researcher Globally**: **3,650+ downloads** across 238 DOIs  
-- **SSRN Paper Curated**: *"Cultural Bias in Plagiarism Detection"* – Scooped by **Stéphane Cottin** under *Bonnes Pratiques en Documentation* (Aug 2025)  
-- **Copyright Registered**: *Sacred Stories for Children: Simplifying Ancient Wisdom for a Global Future* – Indexed in **Indian National Public Registry**
+> *(Full catalog available at [Research Portal](https://helixoriginator.github.io/strategic-leadership-governance-ai))*  
+> *(Grouped by thematic clusters; DOIs linked on portal)*
 
-### Research Interests
-- AI Ethics & Governance  
-- Employment Innovation  
-- Digital Democracy  
-- Alternative Education  
-- Cross-Cultural Knowledge Systems  
+### Governance & Democracy (1–60)
+### Technology & AI Ethics (61–120)
+### Employment & Economic Models (121–160)
+### Alternative Education & Culture (161–200)
+### Global Policy & Philosophy (201–238)
+
+</details>
 
 ---
-## Connect & Collaborate
-**Email:** [kallolchitralimagicpen@gmail.com](mailto:kallolchitralimagicpen@gmail.com)  
-**Research Portal:** [helixoriginator.github.io/strategic-leadership-governance-ai](https://helixoriginator.github.io/strategic-leadership-governance-ai)
+## Key Conceptual Innovations
+### Governance Metrics
+- **Index of Governance Emotion (IGE)**  
+- **Quantum Ethical Uncertainty (QEU)**  
+- **Demographic Transition & Resource Planning Index (DTRPI)**  
+- **Cultural Embedding Quotient (CEQ)**  
+
+### Governance Models
+- **Discoverability Governance**  
+- **Emotional Scaffolding**  
+- **Strategic Vernacularization**  
+- **Aspirational Governance**  
+- **Predictive Governance**  
+
+### Economic & Educational Frameworks
+- **Precision Employment**  
+- **Docu Helix** – Transparency-first research  
+- **Helix Originator** – Decentralized validation  
+- **YouTube University** – Formalized video learning  
 
 ---
-## Research Dissemination
-- **Papers Published:** 238+  
-- **Total Downloads:** 3,650+  
-- **Citations:** Growing  
-- **Policy Adoptions:** Multiple  
-
-### Policy Influence
-- **Government Engagements:** 5+  
-- **Voter Impact:** 970M+ (ECI)  
-- **Implementation Projects:** Ongoing  
-- **Consultation Requests:** Regular  
+## How to Navigate
+| Audience | Action |
+|----------|--------|
+| **Researchers** | Use DOIs • Cite • Replicate |
+| **Policymakers** | Review frameworks • Contact for briefs |
+| **Students** | Explore education models • Use OER |
+| **Public** | Visit portal • Read summaries |
 
 ---
-## Acknowledgments
-### Institutions
-- **Zenodo** – Open-access DOI hosting  
-- **SSRN** – Pre-print distribution  
-- **Election Commission of India** – Policy adoption  
-- **Assam Chief Minister’s Office** – Official recognition  
-- **Indian Copyright Office** – National registry indexing  
-
----
-## Repository Statistics
-![GitHub Repo Size](https://img.shields.io/github/repo-size/HelixOriginator/strategic-leadership-governance-ai)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/HelixOriginator/strategic-leadership-governance-ai)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HelixOriginator.strategic-leadership-governance-ai)
-
----
-## Latest Updates
-### November 2025
-- **238 DOIs** fully cataloged  
-- **25 Copyrights** & **1 Patent** registered  
-- **National IP Awards 2025** application submitted  
-- **Medium.com Recommendation** achieved  
-- **Assam CMO Acknowledgement** received  
-
-### Recent Highlights
-- *"Cultural Bias in Plagiarism Detection"* – Curated on **Scoop.it** (Aug 2025)  
-- *Sacred Stories for Children* – Copyrighted & nationally indexed  
-
----
-## Research Roadmap
-### 2025 Q4
-- [ ] Launch **Global Governance Lexicon Observatory (GGLO)**  
-- [ ] Publish **multilingual policy briefs**  
-- [ ] Release **video abstract series**  
-
-### 2026+
-- [ ] Establish **Policy Innovation Lab**  
-- [ ] Launch **certified YouTube University curriculum**  
-
----
-## Support This Research
-- **Star** this repo  
-- **Share** with networks  
-- **Cite** with DOIs  
-- **Collaborate** on implementation  
-
----
-<p align="center">
-  <b>Making Governance Research Accessible, Discoverable, and Impactful</b>
-</p>
-<p align="center">
-  <i>"From YouTube University to Policy Impact: Demonstrating the Power of Alternative Learning Pathways"</i>
-</p>
-<p align="center">
-  <b>238 DOIs • 3,650+ Downloads • 970M+ Voter Reach</b>
-</p>
-
-**Repository:** `strategic-leadership-governance-ai`  
-**Author:** Kallol Chakrabarti  
-**Status:** Actively Maintained  
-**Last Updated:** **November 09, 2025**  
-**License:** Open Access with Attribution
-
----
-<p align="center">
-  Star | Share | Cite
-</p>
+## Citation Guidelines
+```bibtex
+@misc{chakrabarti2025algorithmic,
+  author = {Chakrabarti, Kallol},
+  title = {Algorithmic Governance: How Digital Keywords Shape Policy Communication},
+  year = {2025},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.17548163}
+}
