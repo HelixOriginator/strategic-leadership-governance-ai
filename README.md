@@ -11,38 +11,38 @@
 🌐 **[Visit Full Research Portal](https://helixoriginator.github.io/strategic-leadership-governance-ai)**
 
 ---
-## Research Collection
+## 📚 Research Collection
 **238 peer-reviewed, DOI-certified publications** hosted on Zenodo, SSRN, and national registries.
 
-### AI & Technology Governance
+### 🤖 AI & Technology Governance
 - Quantum Ethical Uncertainty & Dharma-Driven AI  
 - AI-Powered Multilingual FIR System  
 - Buddhist AI, Stoic AI, Taoist AI Frameworks  
 - Sustainable AI for Climate Change Mitigation  
 - India’s AI Governance Framework  
 
-### Governance & Policy Innovation
+### 🏛️ Governance & Policy Innovation
 - Algorithmic Governance & Digital Keywords  
 - Strategic Tolerance in Political Leadership  
 - Electoral Integrity & Democracy Safeguarding  
 - Digital Promise Tracking System (DPTAS)  
 - Convergence Doctrine in Security Frameworks  
 
-### Employment & Economic Development
+### 💼 Employment & Economic Development
 - Precision Employment Framework  
 - Employment Oracle (50 Future Job Niches)  
 - Bharat Reboot Fund  
 - Digital Seed Networks (DSN)  
 - Smart Circular Economy Platform  
 
-### Alternative Education & Knowledge Systems
+### 🎓 Alternative Education & Knowledge Systems
 - Helix Originator: Decolonizing Academia  
 - YouTube University Framework  
 - Alternative Learning Pathways Study  
 - Rhetoric Teaching Program Integration  
 - Sanskrit Revitalization Strategy  
 
-### Global Policy Models
+### 🌍 Global Policy Models
 - Arctic Cooperation Consortium (ACC)  
 - African Bio-Synthetic Alliance (ABSA)  
 - Global Epic Translation Initiative (GETI)  
@@ -50,31 +50,31 @@
 - Cross-Cultural IP Frameworks  
 
 ---
-## Featured Research
+## 🎯 Featured Research
 ### Top 5 Most Influential Papers
 
 **1. Algorithmic Governance: How Digital Keywords Shape Policy Communication**  
 - DOI: [10.5281/zenodo.17548163](https://doi.org/10.5281/zenodo.17548163)  
-- [Download PDF](https://zenodo.org/records/17548163/files/algorithmic-governance-digital-keywords-policy-communication-india.pdf?download=1)
+- [📥 Download PDF](https://zenodo.org/records/17548163/files/algorithmic-governance-digital-keywords-policy-communication-india.pdf?download=1)
 
 **2. Helix Originator: Decolonizing Knowledge through Decentralized Academia**  
 - DOI: [10.5281/zenodo.17002411](https://doi.org/10.5281/zenodo.17002411)  
-- [Download PDF](https://zenodo.org/records/17002411/files/Helix%20Originator%20%20Decolonizing%20Knowledge%20through%20Decentralized%20Academia.pdf?download=1)
+- [📥 Download PDF](https://zenodo.org/records/17002411/files/Helix%20Originator%20%20Decolonizing%20Knowledge%20through%20Decentralized%20Academia.pdf?download=1)
 
 **3. Safeguarding India's Democracy: Electoral Integrity Evolution**  
 - DOI: [10.5281/zenodo.17084877](https://doi.org/10.5281/zenodo.17084877)  
-- [Download PDF](https://zenodo.org/records/17084877/files/Safeguarding%20India's%20Democracy%20The%20Evolution%20and%20Fortification%20of%20Electoral%20Integrity.pdf?download=1)
+- [📥 Download PDF](https://zenodo.org/records/17084877/files/Safeguarding%20India's%20Democracy%20The%20Evolution%20and%20Fortification%20of%20Electoral%20Integrity.pdf?download=1)
 
 **4. Quantum Ethical Uncertainty and Dharma-Driven AI**  
 - DOI: [10.5281/zenodo.17259701](https://doi.org/10.5281/zenodo.17259701)  
-- [Download PDF](https://zenodo.org/records/17259701/files/Quantum%20Ethical%20Uncertainty%20and%20Dharma-Driven%20AI.pdf?download=1)
+- [📥 Download PDF](https://zenodo.org/records/17259701/files/Quantum%20Ethical%20Uncertainty%20and%20Dharma-Driven%20AI.pdf?download=1)
 
 **5. Strategic Tolerance: Understanding Narendra Modi's Governance Approach**  
 - DOI: [10.5281/zenodo.17404577](https://doi.org/10.5281/zenodo.17404577)  
-- [Download PDF](https://zenodo.org/records/17404577/files/strategic-tolerance-narendra-modi-criticism-confrontation-governance-india.pdf?download=1)
+- [📥 Download PDF](https://zenodo.org/records/17404577/files/strategic-tolerance-narendra-modi-criticism-confrontation-governance-india.pdf?download=1)
 
 ---
-## Research Impact
+## 📊 Research Impact
 | Metric | Value |
 |--------|-------|
 | **Total Publications** | **238 DOIs** |
@@ -87,7 +87,7 @@
 | **Alternative Learning Success** | YouTube → Policy Influence |
 
 ---
-## Complete Research Catalog
+## 🔍 Complete Research Catalog
 <details>
 <summary><b>Click to expand: 238 research papers (categorized)</b></summary>
 
@@ -103,7 +103,7 @@
 </details>
 
 ---
-## Key Conceptual Innovations
+## 🌟 Key Conceptual Innovations
 ### Governance Metrics
 - **Index of Governance Emotion (IGE)**  
 - **Quantum Ethical Uncertainty (QEU)**  
@@ -124,7 +124,7 @@
 - **YouTube University** – Formalized video learning  
 
 ---
-## How to Navigate
+## 📖 How to Navigate
 | Audience | Action |
 |----------|--------|
 | **Researchers** | Use DOIs • Cite • Replicate |
@@ -133,7 +133,7 @@
 | **Public** | Visit portal • Read summaries |
 
 ---
-## Citation Guidelines
+## 🤝 Citation Guidelines
 ```bibtex
 @misc{chakrabarti2025algorithmic,
   author = {Chakrabarti, Kallol},
