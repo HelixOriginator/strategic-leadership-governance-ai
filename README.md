@@ -213,7 +213,7 @@ November 2025
 25 Copyrights & 1 Patent registered
 National IP Awards 2025 application submitted
 Medium.com Recommendation achieved
-Assam CMO Acknowledgement received
+Ass檢查 CMO Acknowledgement received
 
 Recent Highlights
 
