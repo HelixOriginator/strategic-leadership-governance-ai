@@ -76,7 +76,7 @@
 ---
 ## 📊 Research Impact
 | Metric | Value |
-|-------|-------|
+|--------|-------|
 | **Total Publications** | **238 DOIs** |
 | **Copyrights Registered** | **25** |
 | **Patents Filed** | **1** |
@@ -126,7 +126,7 @@
 ---
 ## 📖 How to Navigate
 | Audience | Action |
-|--------|--------|
+|----------|--------|
 | **Researchers** | Use DOIs • Cite • Replicate |
 | **Policymakers** | Review frameworks • Contact for briefs |
 | **Students** | Explore education models • Use OER |
