@@ -1,4 +1,5 @@
 # Strategic Leadership & AI Governance Research Hub
+
 [![Research Papers](https://img.shields.io/badge/Papers-238%2B-blue)](https://github.com/HelixOriginator/strategic-leadership-governance-ai)
 [![DOI Certified](https://img.shields.io/badge/DOIs-238-green)](https://zenodo.org/communities/governance-innovation)
 [![Copyrights](https://img.shields.io/badge/Copyrights-25-orange)](https://copyright.gov.in)
@@ -11,6 +12,7 @@
 [Visit Full Research Portal](https://helixoriginator.github.io/strategic-leadership-governance-ai)
 
 ---
+
 ## Research Collection
 **238 peer-reviewed, DOI-certified publications** hosted on Zenodo, SSRN, and national registries.
 
@@ -50,6 +52,7 @@
 - Cross-Cultural IP Frameworks  
 
 ---
+
 ## Featured Research
 ### Top 5 Most Influential Papers
 
@@ -74,19 +77,21 @@
 - [Download PDF](https://zenodo.org/records/17404577/files/strategic-tolerance-narendra-modi-criticism-confrontation-governance-india.pdf?download=1)
 
 ---
+
 ## Research Impact
 | Metric | Value |
 |--------|-------|
-| **Total Publications** | **238 DOIs** |
-| **Copyrights Registered** | **25** |
-| **Patents Filed** | **1** |
-| **Global Downloads** | **3,650+** |
+| **Total Publications** | 238 DOIs |
+| **Copyrights Registered** | 25 |
+| **Patents Filed** | 1 |
+| **Global Downloads** | 3,650+ |
 | **Government Policy Adoptions** | Multiple (ECI, Assam CMO) |
-| **Voter Impact** | **970M+** (Election Commission of India) |
-| **Original Concepts** | **150+** |
+| **Voter Impact** | 970M+ (Election Commission of India) |
+| **Original Concepts** | 150+ |
 | **Alternative Learning Success** | YouTube to Policy Influence |
 
 ---
+
 ## Complete Research Catalog
 <details>
 <summary><b>Click to expand: 238 research papers (categorized)</b></summary>
@@ -103,6 +108,7 @@
 </details>
 
 ---
+
 ## Key Conceptual Innovations
 ### Governance Metrics
 - **Index of Governance Emotion (IGE)**  
@@ -124,6 +130,7 @@
 - **YouTube University** – Formalized video learning  
 
 ---
+
 ## How to Navigate
 | Audience | Action |
 |----------|--------|
@@ -133,6 +140,7 @@
 | **Public** | Visit portal • Read summaries |
 
 ---
+
 ## Citation Guidelines
 ```bibtex
 @misc{chakrabarti2025algorithmic,
