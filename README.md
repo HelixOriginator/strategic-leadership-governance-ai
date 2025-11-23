@@ -1,9 +1,11 @@
 # Strategic Leadership & AI Governance Research Hub
 
-[![Research Papers](https://img.shields.io/badge/Papers-238%2B-blue)](https://github.com/HelixOriginator/strategic-leadership-governance-ai)
-[![DOI Certified](https://img.shields.io/badge/DOIs-238-green)](https://zenodo.org/communities/governance-innovation)
-[![Copyrights](https://img.shields.io/badge/Copyrights-25-orange)](https://copyright.gov.in)
-[![Patent](https://img.shields.io/badge/Patent-1-red)](https://ipindia.gov.in)
+**Kallol Chakrabarti** is an independent researcher specializing in strategic leadership, AI governance, and public policy innovation. This hub hosts his complete open-access research portfolio, including DOI-certified publications, patents, and original frameworks.
+
+[![Research Papers](https://img.shields.io/badge/Papers-238%2B-blue "Kallol Chakrabarti research papers")]  
+[![DOI Certified](https://img.shields.io/badge/DOIs-238-green "Kallol Chakrabarti DOI publications")]  
+[![Copyrights](https://img.shields.io/badge/Copyrights-25-orange "Kallol Chakrabarti copyrights")]  
+[![Patent](https://img.shields.io/badge/Patent-1-red "Kallol Chakrabarti patent")]  
 [![License](https://img.shields.io/badge/License-Open%20Access-brightgreen)](LICENSE)
 
 > **Comprehensive open-access hub** of strategic leadership, AI governance, employment innovation, digital democracy, and alternative education pathways.  
@@ -16,48 +18,48 @@
 
 ## Research Collection
 
-**238 peer-reviewed, DOI-certified publications** hosted on Zenodo, SSRN, and national registries.
+**238 peer-reviewed, DOI-certified publications by Kallol Chakrabarti**, hosted on Zenodo, SSRN, and national registries.
 
 ### AI & Technology Governance
-- Quantum Ethical Uncertainty & Dharma-Driven AI
-- AI-Powered Multilingual FIR System
-- Buddhist AI, Stoic AI, Taoist AI Frameworks
-- Sustainable AI for Climate Change Mitigation
+- Quantum Ethical Uncertainty & Dharma-Driven AI (Kallol’s framework for ethical AI)  
+- AI-Powered Multilingual FIR System  
+- Buddhist AI, Stoic AI, Taoist AI Frameworks  
+- Sustainable AI for Climate Change Mitigation  
 - India's AI Governance Framework
 
 ### Governance & Policy Innovation
-- Algorithmic Governance & Digital Keywords
-- Strategic Tolerance in Political Leadership
-- Electoral Integrity & Democracy Safeguarding
-- Digital Promise Tracking System (DPTAS)
+- Algorithmic Governance & Digital Keywords  
+- Strategic Tolerance in Political Leadership  
+- Electoral Integrity & Democracy Safeguarding  
+- Digital Promise Tracking System (DPTAS)  
 - Convergence Doctrine in Security Frameworks
 
 ### Employment & Economic Development
-- Precision Employment Framework
-- Employment Oracle (50 Future Job Niches)
-- Bharat Reboot Fund
-- Digital Seed Networks (DSN)
+- Precision Employment Framework  
+- Employment Oracle (50 Future Job Niches)  
+- Bharat Reboot Fund  
+- Digital Seed Networks (DSN)  
 - Smart Circular Economy Platform
 
 ### Alternative Education & Knowledge Systems
-- Helix Originator: Decolonizing Academia
-- YouTube University Framework
-- Alternative Learning Pathways Study
-- Rhetoric Teaching Program Integration
+- Helix Originator: Decolonizing Academia  
+- YouTube University Framework  
+- Alternative Learning Pathways Study  
+- Rhetoric Teaching Program Integration  
 - Sanskrit Revitalization Strategy
 
 ### Global Policy Models
-- Arctic Cooperation Consortium (ACC)
-- African Bio-Synthetic Alliance (ABSA)
-- Global Epic Translation Initiative (GETI)
-- LEADAI: AI-Powered Leadership Platform
+- Arctic Cooperation Consortium (ACC)  
+- African Bio-Synthetic Alliance (ABSA)  
+- Global Epic Translation Initiative (GETI)  
+- LEADAI: AI-Powered Leadership Platform  
 - Cross-Cultural IP Frameworks
 
 ---
 
 ## Featured Research
 
-### Top 5 Most Influential Papers
+### Top 5 Most Influential Papers by Kallol Chakrabarti
 
 1. **Algorithmic Governance: How Digital Keywords Shape Policy Communication**  
    DOI: [10.5281/zenodo.17548163](https://doi.org/10.5281/zenodo.17548163)  
@@ -92,7 +94,7 @@
 | Zenodo Downloads | 3,000 |
 | SSRN Downloads | 543 |
 | Government Policy Adoptions | Multiple (ECI, Assam CMO) |
-| Voter Impact | 970M+ (Election Commission of India) |
+| Voter Impact | 970M+ |
 | Original Concepts | 150+ |
 | Alternative Learning Success | YouTube to Policy Influence |
 
@@ -105,35 +107,35 @@
 
 Full catalog available at [Research Portal](https://helixoriginator.github.io/strategic-leadership-governance-ai)
 
-- Governance & Democracy (1–60)
-- Technology & AI Ethics (61–120)
-- Employment & Economic Models (121–160)
-- Alternative Education & Culture (161–200)
+- Governance & Democracy (1–60)  
+- Technology & AI Ethics (61–120)  
+- Employment & Economic Models (121–160)  
+- Alternative Education & Culture (161–200)  
 - Global Policy & Philosophy (201–238)
 
 </details>
 
 ---
 
-## Key Conceptual Innovations
+## Key Conceptual Innovations by Kallol Chakrabarti
 
 ### Governance Metrics
-- Index of Governance Emotion (IGE)
-- Quantum Ethical Uncertainty (QEU)
-- Demographic Transition & Resource Planning Index (DTRPI)
+- Index of Governance Emotion (IGE)  
+- Quantum Ethical Uncertainty (QEU)  
+- Demographic Transition & Resource Planning Index (DTRPI)  
 - Cultural Embedding Quotient (CEQ)
 
 ### Governance Models
-- Discoverability Governance
-- Emotional Scaffolding
-- Strategic Vernacularization
-- Aspirational Governance
+- Discoverability Governance  
+- Emotional Scaffolding  
+- Strategic Vernacularization  
+- Aspirational Governance  
 - Predictive Governance
 
 ### Economic & Educational Frameworks
-- Precision Employment
-- Docu Helix – Transparency-first research
-- Helix Originator – Decentralized validation
+- Precision Employment  
+- Docu Helix – Transparency-first research  
+- Helix Originator – Decentralized validation  
 - YouTube University – Formalized video learning
 
 ---
@@ -159,4 +161,3 @@ Full catalog available at [Research Portal](https://helixoriginator.github.io/st
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17548163}
 }
-```
